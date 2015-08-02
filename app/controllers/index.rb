@@ -1,6 +1,6 @@
 SiegeWebapp::App.controllers :index do
   
-  get :index do
+  get :index, :map => '/' do
     render 'index'
   end
 

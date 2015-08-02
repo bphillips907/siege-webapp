@@ -62,10 +62,5 @@ module SiegeWebapp
     #   end
     #
 
-    class SiegeWebapp::App
-        get '/' do
-            redirect 'index'
-        end
-    end
   end
 end
