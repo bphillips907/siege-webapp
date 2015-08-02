@@ -12,6 +12,7 @@ source 'https://rubygems.org'
 
 # Project requirements
 gem 'rake'
+gem 'bootstrap-sass'
 
 # Component requirements
 gem 'slim'
