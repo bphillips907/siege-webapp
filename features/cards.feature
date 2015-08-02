@@ -4,4 +4,3 @@ Feature: Cards
   Scenario: Load the Cards Page
     Given I visit the cards page
     Then I should see 'Cards'
-
