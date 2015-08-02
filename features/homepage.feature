@@ -1,4 +1,4 @@
-Feature: Index
+Feature: Homepage
   The Siege SCG Homepage
 
   Scenario: Load the Homepage

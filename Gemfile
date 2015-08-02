@@ -15,7 +15,7 @@ gem 'rake'
 gem 'bootstrap-sass'
 
 # Component requirements
-gem 'slim'
+gem 'erubis'
 gem 'pg'
 gem 'sequel'
 

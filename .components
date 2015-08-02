@@ -3,7 +3,7 @@
 :test: cucumber
 :mock: mocha
 :script: none
-:renderer: slim
+:renderer: erb
 :stylesheet: none
 :namespace: SiegeWebapp
 :migration_format: number
